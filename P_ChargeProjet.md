@@ -6,7 +6,7 @@
 
 Un développeur tombe malade à mi-parcours d’un projet. Comment gérez-vous cette crise ?  Essayez d’assurer la continuité du projet sans sacrifier la qualité et minimiser l'impact du retard sur le projet.
 
-####Informations supplémentaires
+###Informations supplémentaires
 L’application (KickmyB) doit permettre aux utilisateurs de :
 
 - Créer, modifier, et supprimer des tâches.
