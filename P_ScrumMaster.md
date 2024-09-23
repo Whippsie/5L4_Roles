@@ -11,5 +11,5 @@ Vous devez planifier un sprint en priorisant trois tâches suivantes :
 
 Justifiez pourquoi.
 
-####Informations supplémentaires
+#### Informations supplémentaires
 L'application est une plateforme web de gestion de projets collaboratifs destinée aux équipes de travail. Elle permet aux utilisateurs de planifier, suivre et collaborer sur divers projets en temps réel. L'application vise à améliorer la productivité, la transparence et la communication au sein des équipes.
